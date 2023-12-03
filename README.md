@@ -1,6 +1,6 @@
 
 <div>
-    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="40%" height="120">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="40%" height="130">
     <img src="https://th.bing.com/th/id/R.242b5f8354771de6c337e1c2adf2b180?rik=2ccfs6hJgPkIzQ&pid=ImgRaw&r=0" width="90" height="auto">  
 </div>
 
