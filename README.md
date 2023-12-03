@@ -23,7 +23,7 @@ A project about a blog where you can create questions and answer them, using liv
   
 ## Screenshots
 
-![Screenshot](https://github.com/AngelPrz008a/Laravel_Livewire/tree/main/public/images/screenshot.png)
+![Screenshot](https://github.com/AngelPrz008a/Laravel_Livewire/blob/main/public/images/screenshot.png)
 
 ## Links
 
