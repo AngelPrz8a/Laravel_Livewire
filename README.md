@@ -20,6 +20,10 @@ A project about a blog where you can create questions and answer them, using liv
 6. Run `php artisan migrate` to create the tables in your database.
 7. Run `php artisan db:seed` to fill the database with test data.
   
+## Screenshots
+
+![Screenshot](https://github.com/AngelPrz008a/Laravel_Livewire/tree/main/public/images/screenshot.png)
+
 ## Links
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://angelprz008a.github.io/Portafolio/)
