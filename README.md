@@ -9,6 +9,7 @@ A project about a blog where you can create questions and answer them, using liv
 
 ## Tech Stack
 **Client:** [TailwindCSS 3](https://tailwindcss.com)
+
 **Server:** [Laravel 10](https://laravel.com/), [Livewire 2](https://laravel-livewire.com/docs/2.x/quickstart)
 
 ## Installation
